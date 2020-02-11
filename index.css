@@ -1,0 +1,21 @@
+#user {
+  font-weight: bold;
+  color: hotpink;
+}
+
+input[type] {
+  border: orange solid 2px;
+}
+
+*[id^='c'] {
+  border: red solid 2px;
+}
+
+form[id='nameInput'] {
+  display: none;
+  border: pink solid 3px;
+}
+
+*:first-letter, body:first-line {
+  color: cadetblue;
+}
